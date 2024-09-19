@@ -24,6 +24,7 @@ dependencies:
   - python=3.10  # your beloved programming language! :)
   - requests=2.31  # used only in chapter 19 for REST API queries
   - scikit-learn=1.3  # machine learning library
+  - scikit-image
   - scipy=1.11  # scientific/technical computing library
   - statsmodels=0.14  # used only in chapter 15 for time series analysis
   - tqdm=4.66  # used only in chapter 12 to display nice progress bars
